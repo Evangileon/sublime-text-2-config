@@ -1,0 +1,8 @@
+{
+	"cmd_hist":
+	{
+		"/home/yj/go": "[u'go run']",
+		"/home/yj/go/src/pkg/github.com/nsf/gocode": "[u'go build']",
+		"/home/yj/go/src/pkg/github.com/robfig/revel/cmd": "[u'go run']"
+	}
+}

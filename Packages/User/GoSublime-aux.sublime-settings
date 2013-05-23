@@ -1,0 +1,13 @@
+{
+	"9o.hist./home/yj/test":
+	[
+		"go run pointer_and_value.go",
+		"go run",
+		"go run tst.go"
+	],
+	"ann": "a13.05.06-4",
+	"changelog.rev": "r13.01.27-2",
+	"install_version": "r13.05.06-4",
+	"mg9_install_tokens": "r13.04.01-1",
+	"version": "r13.05.06-4"
+}

@@ -1,0 +1,1459 @@
+{
+	"folder_history":
+	[
+		"/home/yj/build/luajit-2.0/src",
+		"/home/yj/go/src/pkg/github.com/nsf/gocode",
+		"/home/yj/Build/dea-1.4/my-lisps"
+	],
+	"last_window_id": 3,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"v",
+						"v4l2"
+					],
+					[
+						"s",
+						"str	<-chan string ν"
+					],
+					[
+						"fu",
+						"func (*Event)	func (...) {...} ʂ"
+					],
+					[
+						"sta",
+						"stage1"
+					],
+					[
+						"t",
+						"test"
+					],
+					[
+						"f",
+						"flag"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"ar",
+						"argv"
+					],
+					[
+						"e",
+						"extra_tag_paths"
+					],
+					[
+						"in",
+						"include"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 201.0,
+				"selected_items":
+				[
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: u",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"Package Control: r",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 593.0
+			},
+			"console":
+			{
+				"height": 153.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/yj/.config/sublime-text-2/Packages/GoSublime/CHANGELOG.md",
+				"/home/yj/build/ch341_drv/ch341.c",
+				"/home/yj/go/src/pkg/flag/flag.go",
+				"/home/yj/go/misc/goplay/goplay.go",
+				"/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/decode.go",
+				"/home/yj/wayland/weston/src/compositor.c",
+				"/usr/local/include/luajit-2.0/luajit.h",
+				"/usr/local/include/luajit-2.0/lua.h",
+				"/usr/local/include/luajit-2.0/luaconf.h",
+				"/home/yj/Build/arm-dev/include/common.h",
+				"/home/yj/Build/arm-dev/camera/camera.c",
+				"/home/yj/go/src/pkg/os/exec.go",
+				"/home/yj/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+				"/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/encode.go",
+				"/home/yj/wayland/cairo/aclocal.m4",
+				"/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/lib.go",
+				"/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/message_set.go",
+				"/home/yj/go/src/pkg/github.com/ha/doozer/conn.go",
+				"/home/yj/go/src/pkg/github.com/ha/doozerd/server/txn.go",
+				"/home/yj/wayland/pixman/pixman/pixman-glyph.c",
+				"/home/yj/Build/v2ex/backstage.py",
+				"/home/yj/wayland/pixman/pixman/pixman-private.h",
+				"/home/yj/wayland/pixman/pixman/pixman-compiler.h",
+				"/home/yj/wayland/cairo/Makefile",
+				"/home/yj/wayland/cairo/Makefile.am",
+				"/home/yj/wayland/pixman/pixman/pixman.h",
+				"/home/yj/wayland/cairo/Makefile.in",
+				"/home/yj/Build/thrift-0.9.0/lib/go/thrift/ttransport.go",
+				"/home/yj/go/go-test.go",
+				"/home/yj/go/src/pkg/github.com/robfig/revel/cmd/run.go",
+				"/home/yj/go/src/pkg/github.com/robfig/revel/samples/chat/app/chatroom/chatroom.go",
+				"/home/yj/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/yj/.config/sublime-text-2/Packages/GoSublime/GoSublime.sublime-settings",
+				"/home/yj/.config/sublime-text-2/Packages/CTags/CTags.sublime-settings",
+				"/home/yj/Build/thrift-0.9.0/lib/go/thrift/tbinary_protocol.go",
+				"/home/yj/go/test/named.go",
+				"/home/yj/go/test/index.go",
+				"/home/yj/go/test/cmp.go",
+				"/host/goagent/local/proxy.py",
+				"/home/yj/.config/sublime-text-2/Packages/User/GoSublime.sublime-settings",
+				"/home/yj/go/misc/emacs/go-mode-load.el",
+				"/home/yj/go/test/bench/garbage/parser.go",
+				"/home/yj/go/test/run.go",
+				"/home/yj/go/test/goto.go",
+				"/home/yj/go/src/pkg/runtime/thread_linux.c",
+				"/home/yj/Build/dea-1.4/lisps/golang/go-mode.el",
+				"/home/yj/Build/dea-1.4/lisps/xref/xrefsetup",
+				"/home/yj/Build/dea-1.4/lisps/org/org-src.el",
+				"/home/yj/.emacs",
+				"/media/F8FE85B4FE856C26/Users/yj/Desktop/~~~大白本/NO.2-NO.9--text/tn2-3.txt",
+				"/home/yj/go/test/dwarf/main.go",
+				"/home/yj/go/src/pkg/github.com/mattn/go-sqlite3/sqlite3.go",
+				"/home/yj/go/src/pkg/go/build/build.go",
+				"/home/yj/Build/dea-1.4/my-lisps/rails-settings.el",
+				"/home/yj/Build/dea-1.4/my-lisps/dev-settings.el",
+				"/home/yj/go/src/cmd/gc/walk.c",
+				"/home/yj/go/src/cmd/8c/gc.h",
+				"/home/yj/go/src/cmd/8c/cgen.c",
+				"/home/yj/go/include/libc.h",
+				"/home/yj/go/src/cmd/gc/inl.c",
+				"/home/yj/go/src/cmd/gc/gen.c",
+				"/home/yj/go/src/cmd/gc/align.c",
+				"/home/yj/go/src/cmd/gc/dcl.c",
+				"/home/yj/go/src/cmd/gc/init.c",
+				"/home/yj/go/src/cmd/gc/sinit.c",
+				"/home/yj/go/src/cmd/gc/subr.c",
+				"/home/yj/go/include/u.h",
+				"/home/yj/go/src/cmd/gc/fmt.c",
+				"/home/yj/go/src/libmach/linux.c",
+				"/home/yj/go/src/pkg/github.com/mattn/go-sqlite3/sqlite3_test.go",
+				"/home/yj/go/src/pkg/github.com/mattn/go-sqlite3/sqlite3",
+				"/home/yj/go/revel/revel.go",
+				"/home/yj/go/test/bench/go1/json_test.go",
+				"/home/yj/go/test/run",
+				"/home/yj/go/revel/cmd/rev.go",
+				"/home/yj/go/test/bench/go1/jsondata_test.go",
+				"/home/yj/go/test/cmplxdivide1.go",
+				"/home/yj/go/test/dwarf/z1.go",
+				"/home/yj/Build/go/src/pkg/html/template/js.go",
+				"/home/yj/Build/go/src/pkg/html/template/escape_test.go",
+				"/home/yj/Build/go/test/bench/go1/binarytree_test.go",
+				"/home/yj/Build/go/test/bench/garbage/tree.go",
+				"/home/yj/Build/go/test/run.go",
+				"/usr/include/math.h",
+				"/home/yj/Build/go/test/bench/garbage/tree",
+				"/home/yj/Build/dea-1.4/my-lisps/yasnippet-settings-0.8.el",
+				"/home/yj/Web/Django-1.4.1/setup.py",
+				"/home/yj/Build/dea-1.4/my-lisps/yasnippet-settings.el",
+				"/home/yj/Build/dea-1.4/lisps/yasnippet-0.8/yasnippet.el",
+				"/home/yj/Build/dea-1.4/lisps/cedet-1.1/cogre/wisent-dot-wy.el",
+				"/home/yj/Build/dea-1.4/lisps/cedet-1.1/cogre/wisent-dot.wy",
+				"/home/yj/Build/dea-1.4/old/yasnippet-0.6.1c/yasnippet.el",
+				"/home/yj/Build/dea-1.4/my-lisps/all-auto-complete-settings.el",
+				"/home/yj/Build/dea-1.4/my-lisps/auto-complete-settings.el",
+				"/home/yj/Build/dea-1.4/my-lisps/auto-complete+.el",
+				"/home/yj/Web/Django-1.4.1/django/db/transaction.py",
+				"/home/yj/下载/皇族.txt",
+				"/home/yj/Web/phpwind_UTF8_8.7/upload/admin.php",
+				"/home/yj/Web/phpwind_UTF8_8.7/upload/index.php",
+				"/home/yj/Web/phpwind_UTF8_8.7/docs/index.html",
+				"/home/yj/Build/dea-1.4/lisps/yasnippet-github/replace-slash-with-dash.diff",
+				"/home/yj/Build/dea-1.4/lisps/yasnippet-github/yasnippet.el",
+				"/home/yj/Build/dea-1.4/my-lisps/yasnippet-settings-github.el",
+				"/var/www/index.html",
+				"/home/yj/Build/dea-1.4/my-lisps/vc-settings.el",
+				"/home/yj/Build/dea-1.4/my-lisps/vc+.el",
+				"/home/yj/Build/dea-1.4/my-lisps/ruby-settings.el",
+				"/home/yj/CV/PCV/examples/rof_denoise.py",
+				"/home/yj/CV/PCV/PCV/imagesearch/imagesearch.py",
+				"/home/yj/CV/PCV/PCV/geometry/warp.py",
+				"/home/yj/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/yj/Build/dea-1.4/.emacs",
+				"/home/yj/Build/linux-3.2.16/arch/arm/mach-bcmring/clock.h",
+				"/home/yj/.cache/.fr-Aoz20S/examples/asyncfunc.py",
+				"/home/yj/.cache/.fr-MmOzAT/examples/callbacks.py",
+				"/home/yj/.cache/.fr-poJCoh/examples/objectcache.py",
+				"/home/yj/.cache/.fr-sYZueL/pyxll.py",
+				"/home/yj/Build/ecb-2.40/ecb-upgrade.el",
+				"/home/yj/Build/ecb-2.40/README",
+				"/home/yj/Build/dea-1.4/Makefile",
+				"/home/yj/Build/dea-1.4/lisps/ecb-2.40/ecb-upgrade.el",
+				"/home/yj/Build/dea-1.4/README.htm",
+				"/home/yj/Build/dea-1.4/TODO",
+				"/home/yj/.cache/.fr-EnXd38/examples/tools/__init__.py",
+				"/usr/local/include/boost/thread/future.hpp",
+				"/home/yj/Build/hadoop-1.0.3/conf/hadoop-env.sh",
+				"/home/yj/Build/dea-1.4/my-lisps/emaci.el",
+				"/home/yj/.cache/.fr-ATAGQs/examples/customtypes.py"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"gocode",
+					"commandLine",
+					"AM_MAKEFLAGS",
+					"all-recursive",
+					"MAKE",
+					"all-recursive",
+					"MAKE",
+					"PIXMAN_EXPORT",
+					"\\\\",
+					"mathcall",
+					"sqrt",
+					"yas-trigger-key",
+					"trigger-key",
+					"unbind-trigger-key",
+					"yas-snippet-dirs",
+					"snippet-dirs",
+					"reload-after-save",
+					"load-snippet-buffer",
+					"yas-trigger-key",
+					"imenu",
+					"menu",
+					"yas-minor-mode",
+					"/",
+					"yas/minor-mode",
+					"trigger-key-reload",
+					"trigger-key",
+					"find-snippets",
+					"yas/",
+					"yas/minor",
+					"yas/minor-mode-map",
+					"minor-mode",
+					";; check",
+					";;check",
+					";;check if vedet-version is correct  ",
+					";; check if vedet-version is correct  ",
+					"find",
+					"side_bar",
+					"tags",
+					"3342"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"-",
+					"3242"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.GsDepends-output":
+			{
+				"height": 124.0
+			},
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 217.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"f",
+						"Func	 Ɩ"
+					],
+					[
+						"t",
+						"test	X ν"
+					],
+					[
+						"se",
+						"semantic"
+					],
+					[
+						"lua_",
+						"lua_pcall"
+					],
+					[
+						"s",
+						"str	<-chan string ν"
+					],
+					[
+						"fu",
+						"func (*Event)	func (...) {...} ʂ"
+					],
+					[
+						"sta",
+						"stage1"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"ar",
+						"argv"
+					],
+					[
+						"e",
+						"extra_tag_paths"
+					],
+					[
+						"in",
+						"include"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/yj/build/revel/src/github.com/robfig/revel/revel.go",
+					"settings":
+					{
+						"buffer_size": 7454,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yj/.config/sublime-text-2/Packages/GoSublime/USAGE.md",
+					"settings":
+					{
+						"buffer_size": 7897,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yj/build/revel/src/github.com/robfig/revel/cmd/build.go",
+					"settings":
+					{
+						"buffer_size": 1997,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yj/build/revel/src/github.com/robfig/revel/errors.go",
+					"settings":
+					{
+						"buffer_size": 3407,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yj/build/docker/commands.go",
+					"settings":
+					{
+						"buffer_size": 34047,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yj/build/revel/src/github.com/robfig/revel/util.go",
+					"settings":
+					{
+						"buffer_size": 4359,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yj/test/snake-ai/snake.py",
+					"settings":
+					{
+						"buffer_size": 8561,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/yj/test/snake-ai/snake-draft.py",
+					"settings":
+					{
+						"buffer_size": 11658,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"py",
+						"User: Python PEP8 Autoformat"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: r",
+						"Package Control: Remove Package"
+					],
+					[
+						"go",
+						"GoSublime: Goto Definition"
+					],
+					[
+						"gosu",
+						"GoSublime: Goto Definition"
+					],
+					[
+						"gosub",
+						"GoSublime: Goto Definition"
+					],
+					[
+						"Cscope: ",
+						"Cscope: Jump to function definition"
+					],
+					[
+						"cscop",
+						"Cscope: Jump to function definition"
+					],
+					[
+						"cs",
+						"Cscope: Look up symbol"
+					],
+					[
+						"in",
+						"InputHelper"
+					],
+					[
+						"Package Control: is",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: u",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 579.0
+			},
+			"console":
+			{
+				"height": 153.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/yj/build/revel/src/github.com/robfig/revel/harness/build.go",
+				"/home/yj/test/tst.go",
+				"/home/yj/.config/sublime-text-2/Packages/GoSublime/USAGE.md",
+				"/home/yj/test/hello.py",
+				"/home/yj/translation.txt",
+				"/home/yj/下载/dl.php",
+				"/home/yj/go/src/pkg/github.com/AlekSi/nut/nut.go",
+				"/home/yj/go/src/pkg/database/sql/driver/driver.go",
+				"/home/yj/go/src/pkg/errors/errors.go",
+				"/home/yj/go/src/pkg/sort/sort.go",
+				"/home/yj/.config/sublime-text-2/Packages/GoSublime/CHANGELOG.md",
+				"/home/yj/go/src/pkg/database/sql/sql.go",
+				"/home/yj/go/src/pkg/html/template/context.go",
+				"/home/yj/go/src/pkg/hash/crc32/crc32.go",
+				"/home/yj/go/src/pkg/strings/strings.go",
+				"/home/yj/go/src/pkg/math/sin.go",
+				"/home/yj/go/src/pkg/reflect/value.go",
+				"/home/yj/go/src/pkg/github.com/AlekSi/test_nut3/test_nut3.go",
+				"/home/yj/go/src/pkg/github.com/AlekSi/nut/Makefile",
+				"/home/yj/go/src/pkg/github.com/AlekSi/nut/nut/base.go",
+				"/home/yj/go/src/pkg/github.com/AlekSi/test_nut2/test_nut2.go",
+				"/home/yj/.config/sublime-text-2/Packages/GoSublime/GoSublime.sublime-settings",
+				"/home/yj/.config/sublime-text-2/Packages/User/GoSublime.sublime-settings",
+				"/home/yj/.config/sublime-text-2/Packages/Go/Go.tmLanguage",
+				"/home/yj/.config/sublime-text-2/Packages/Go/If Statement.tmSnippet",
+				"/home/yj/.config/sublime-text-2/Packages/Go/type.tmSnippet",
+				"/home/yj/.config/sublime-text-2/Packages/Go/go func().tmSnippet",
+				"/home/yj/.config/sublime-text-2/Packages/Go/Comments.tmPreferences",
+				"/home/yj/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/yj/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+				"/home/yj/build/dea-1.4/my-lisps/cedet/common/cedet-settings.el",
+				"/home/yj/go/src/pkg/code.google.com/p/gowut/examples/showcase.go",
+				"/home/yj/go/src/pkg/code.google.com/p/gowut/gwu/comp.go",
+				"/home/yj/go/src/pkg/code.google.com/p/gowut/gwu/event.go",
+				"/host/TDDOWNLOAD/mBookMaker/mBookMaker/酷全书/仪式.txt",
+				"/home/yj/下载/艾西莫夫-第二基地.txt",
+				"/home/yj/build/dea-1.4/my-lisps/dev-settings.el",
+				"/home/yj/build/dea-1.4/my-lisps/my-subdirs.el",
+				"/home/yj/.emacs",
+				"/home/yj/build/dea-1.4/lisps/cedet/lisp/cedet/semantic/imenu.el",
+				"/home/yj/build/dea-1.4/my-lisps/dired-x-settings.el",
+				"/home/yj/build/dea-1.4/lisps/yasnippet/yasnippet.el",
+				"/home/yj/build/dea-1.4/lisps/cedet/lisp/cedet/ede/base.el",
+				"/home/yj/build/dea-1.4/lisps/cedet/lisp/cedet/semantic/db-find.el",
+				"/home/yj/build/dea-1.4/my-lisps/yasnippet-settings-0.8.el",
+				"/home/yj/build/dea-1.4/lisps/cedet/lisp/cedet/semantic/find-db.el",
+				"/home/yj/build/dea-1.4/lisps/cedet/lisp/cedet/semantic/db.el",
+				"/home/yj/build/dea-1.4/my-lisps/yasnippet-settings-github.el",
+				"/home/yj/build/dea-1.4/my-lisps/yasnippet-settings.el",
+				"/home/yj/build/dea-1.4/my-lisps/pulse-settings.el",
+				"/home/yj/build/dea-1.4/my-lisps/dired-settings.el",
+				"/home/yj/build/luajit-2.0/src/lualib.h",
+				"/home/yj/build/dea-1.4/my-lisps/cedet/semantic/cedet-semantic-settings.el",
+				"/home/yj/build/dea-1.4/lisps/imenu-tree.el",
+				"/home/yj/build/dea-1.4/lisps/pcase/pcase.el",
+				"/home/yj/build/dea-1.4/lisps/debug/debug.el",
+				"/home/yj/build/dea-1.4/lisps/cedet/cedet-devel-load.el",
+				"/home/yj/build/luajit-2.0/src/host/minilua.c",
+				"/home/yj/build/luajit-2.0/src/lj_api.c",
+				"/home/yj/build/luajit-2.0/src/luajit.c",
+				"/home/yj/.config/sublime-text-2/Packages/Cscope/Default (Linux).sublime-keymap",
+				"/home/yj/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/yj/.config/sublime-text-2/Packages/CTags/CTags.sublime-settings",
+				"/home/yj/test.rb",
+				"/home/yj/go/src/pkg/github.com/nsf/gocode/rpc.go",
+				"/home/yj/go/src/pkg/github.com/nsf/gocode/client.go",
+				"/home/yj/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/yj/.config/sublime-text-2/Packages/GoSublime/Default (Linux).sublime-keymap",
+				"/home/yj/go/src/pkg/github.com/nsf/gocode/autocompletecontext.go",
+				"/home/yj/go/src/pkg/github.com/nsf/gocode/gocode.go",
+				"/home/yj/.config/sublime-text-2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/decode.go",
+				"/home/yj/Build/arm-dev/camera/camera.c",
+				"/home/yj/Build/arm-dev/include/common.h",
+				"/home/yj/go/src/pkg/flag/flag.go",
+				"/home/yj/go/misc/goplay/goplay.go",
+				"/home/yj/go/src/pkg/os/exec.go",
+				"/home/yj/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+				"/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/encode.go",
+				"/home/yj/wayland/cairo/aclocal.m4",
+				"/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/lib.go",
+				"/home/yj/go/src/pkg/code.google.com/p/goprotobuf/proto/message_set.go",
+				"/home/yj/go/src/pkg/github.com/ha/doozer/conn.go",
+				"/home/yj/go/src/pkg/github.com/ha/doozerd/server/txn.go",
+				"/home/yj/wayland/pixman/pixman/pixman-glyph.c",
+				"/home/yj/Build/v2ex/backstage.py",
+				"/home/yj/wayland/pixman/pixman/pixman-private.h",
+				"/home/yj/wayland/pixman/pixman/pixman-compiler.h",
+				"/home/yj/wayland/cairo/Makefile",
+				"/home/yj/wayland/cairo/Makefile.am",
+				"/home/yj/wayland/pixman/pixman/pixman.h",
+				"/home/yj/wayland/cairo/Makefile.in",
+				"/home/yj/Build/thrift-0.9.0/lib/go/thrift/ttransport.go",
+				"/home/yj/go/go-test.go",
+				"/home/yj/go/src/pkg/github.com/robfig/revel/cmd/run.go",
+				"/home/yj/go/src/pkg/github.com/robfig/revel/samples/chat/app/chatroom/chatroom.go",
+				"/home/yj/Build/thrift-0.9.0/lib/go/thrift/tbinary_protocol.go",
+				"/home/yj/go/test/named.go",
+				"/home/yj/go/test/index.go",
+				"/home/yj/go/test/cmp.go",
+				"/host/goagent/local/proxy.py",
+				"/home/yj/go/misc/emacs/go-mode-load.el",
+				"/home/yj/go/test/bench/garbage/parser.go",
+				"/home/yj/go/test/run.go",
+				"/home/yj/go/test/goto.go",
+				"/home/yj/go/src/pkg/runtime/thread_linux.c",
+				"/home/yj/Build/dea-1.4/lisps/golang/go-mode.el",
+				"/home/yj/Build/dea-1.4/lisps/xref/xrefsetup",
+				"/home/yj/Build/dea-1.4/lisps/org/org-src.el",
+				"/media/F8FE85B4FE856C26/Users/yj/Desktop/~~~大白本/NO.2-NO.9--text/tn2-3.txt",
+				"/home/yj/go/test/dwarf/main.go",
+				"/home/yj/go/src/pkg/github.com/mattn/go-sqlite3/sqlite3.go",
+				"/home/yj/go/src/pkg/go/build/build.go",
+				"/home/yj/Build/dea-1.4/my-lisps/rails-settings.el",
+				"/home/yj/Build/dea-1.4/my-lisps/dev-settings.el",
+				"/home/yj/go/src/cmd/gc/walk.c",
+				"/home/yj/go/src/cmd/8c/gc.h",
+				"/home/yj/go/src/cmd/8c/cgen.c",
+				"/home/yj/go/include/libc.h",
+				"/home/yj/go/src/cmd/gc/inl.c",
+				"/home/yj/go/src/cmd/gc/gen.c",
+				"/home/yj/go/src/cmd/gc/align.c",
+				"/home/yj/go/src/cmd/gc/dcl.c",
+				"/home/yj/go/src/cmd/gc/init.c",
+				"/home/yj/go/src/cmd/gc/sinit.c",
+				"/home/yj/go/src/cmd/gc/subr.c",
+				"/home/yj/go/include/u.h",
+				"/home/yj/go/src/cmd/gc/fmt.c"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"func",
+					"EMPTY_EHANDLER",
+					"semanticdb-abstract-table",
+					"semanticdb-abstract-table-list",
+					"semanticdb-abstract-table",
+					"semanticdb-abstract-table-list",
+					"yas-expand-from-trigger-key",
+					"trigger-key",
+					"default",
+					"ignore",
+					"semantic",
+					"cedet",
+					"require 'imenu",
+					"(eval-when-compile (require 'cl))",
+					"pcase",
+					"ctrl+r",
+					"}\n",
+					"side bar",
+					"commandLine",
+					"AM_MAKEFLAGS",
+					"all-recursive",
+					"MAKE",
+					"all-recursive",
+					"MAKE",
+					"PIXMAN_EXPORT",
+					"\\\\",
+					"mathcall",
+					"sqrt",
+					"yas-trigger-key",
+					"trigger-key",
+					"unbind-trigger-key",
+					"yas-snippet-dirs",
+					"snippet-dirs",
+					"reload-after-save",
+					"load-snippet-buffer",
+					"yas-trigger-key",
+					"imenu",
+					"menu",
+					"yas-minor-mode",
+					"/",
+					"yas/minor-mode",
+					"trigger-key-reload",
+					"trigger-key",
+					"find-snippets",
+					"yas/",
+					"yas/minor",
+					"yas/minor-mode-map",
+					"minor-mode",
+					";; check",
+					";;check",
+					";;check if vedet-version is correct  ",
+					";; check if vedet-version is correct  ",
+					"find",
+					"side_bar",
+					"tags",
+					"3342"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"-",
+					"3242"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/yj/build/revel/src/github.com/robfig/revel/revel.go",
+							"settings":
+							{
+								"buffer_size": 7454,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7060,
+										7060
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/GoSublime/GoSublime.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/yj/.config/sublime-text-2/Packages/GoSublime/USAGE.md",
+							"settings":
+							{
+								"buffer_size": 7897,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										938,
+										938
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Markdown/Markdown.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 912.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/yj/build/revel/src/github.com/robfig/revel/cmd/build.go",
+							"settings":
+							{
+								"buffer_size": 1997,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										22,
+										22
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/GoSublime/GoSublime.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/yj/build/revel/src/github.com/robfig/revel/errors.go",
+							"settings":
+							{
+								"buffer_size": 3407,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										30,
+										30
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/GoSublime/GoSublime.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/yj/build/docker/commands.go",
+							"settings":
+							{
+								"buffer_size": 34047,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/GoSublime/GoSublime.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/yj/build/revel/src/github.com/robfig/revel/util.go",
+							"settings":
+							{
+								"buffer_size": 4359,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/GoSublime/GoSublime.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 171.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/yj/test/snake-ai/snake.py",
+							"settings":
+							{
+								"buffer_size": 8561,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6541,
+										6541
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3926.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/yj/test/snake-ai/snake-draft.py",
+							"settings":
+							{
+								"buffer_size": 11658,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4314,
+										4314
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2394.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o:///home/yj/test":
+			{
+				"height": 126.0
+			},
+			"output.GoSublime-source-output":
+			{
+				"height": 126.0
+			},
+			"output.GsDepends-output":
+			{
+				"height": 124.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 126.0
+			},
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1280,800",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 217.0,
+			"status_bar_visible": true,
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/yj/build/luajit-2.0/src/luajit.src.sublime-project",
+			"/home/yj/go/src/pkg/github.com/nsf/gocode/gocode.sublime-project",
+			"/home/yj/build/dea-1.4/my-lisps/test-all-lisp.sublime-project",
+			"/home/yj/Build/dea-1.4/my-lisps/test-all-lisp.sublime-project",
+			"/home/yj/Test/Test/Test.sublime-project"
+		]
+	}
+}

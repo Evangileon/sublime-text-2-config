@@ -1,0 +1,52 @@
+
+** 2013-01-05 16:46:52.817512 **:
+GsComplete: Blocking Call: Timeout
+--------------------------------
+
+** 2013-03-21 20:36:28.952657 **:
+MarGo: Installation aborted. Install command already called for GoSublime r13.02.08-2.
+--------------------------------
+
+** 2013-03-26 20:54:59.043624 **:
+MarGo: Installation aborted. Install command already called for GoSublime r13.03.20-1.
+--------------------------------
+
+** 2013-05-02 14:55:32.417661 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2013-05-02 14:56:32.984191 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2013-05-02 22:31:32.794404 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2013-05-09 11:33:54.405821 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2013-05-09 11:40:49.518320 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2013-05-23 16:48:30.893486 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2013-05-23 17:59:36.116177 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2013-05-23 18:00:22.226344 **:
+MarGo: Missing required environment variables: GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------

@@ -1,0 +1,27 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"ActionScript 3",
+		"Alignment",
+		"BeautifyRuby",
+		"BracketHighlighter",
+		"Clipboard History",
+		"Cscope",
+		"CTags",
+		"FileDiffs",
+		"FileTemplates",
+		"Git",
+		"GoSublime",
+		"InputHelper",
+		"Package Control",
+		"Pylinter",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"sublime-github",
+		"SublimeGDB",
+		"Terminal",
+		"Theme - Soda"
+	]
+}
